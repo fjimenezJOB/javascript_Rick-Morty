@@ -1,2 +1,2 @@
 # Ejercicio para practicar las llamadas GET a apis con Jquery
-Usamos la librería JQuery para hacer llamadas a una api ( https://rickandmortyapi.com/api/ ), para sacar ingformación de Rick, practicar el ASINCRONISMO en JavaScript y utilizar los CALLBACK.
+Usamos la librería JQuery para hacer llamadas a una api ( https://rickandmortyapi.com/api/ ), para sacar información de los personajes de la serie a través de las ID. Practicar el ASINCRONISMO en JavaScript y utilizar los CALLBACK.
