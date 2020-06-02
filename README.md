@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Ejercicio para practicar las llamadas GET a apis con Jquery
+Usamos la librería JQuery para hacer llamadas a una api ( https://rickandmortyapi.com/api/ ), para sacar ingformación de Rick, practicar el ASINCRONISMO en JavaScript y utilizar los CALLBACK.
